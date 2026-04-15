@@ -1,4 +1,4 @@
-# 🐾 Pet Store Business Analytics 
+# 🐾 Pet Store Business Analysis
 
 A complete **data & business analytics** project built on a 2020 pet store supply-chain dataset covering 879 product records across 9 countries, 6 pet types, and 11 product categories.
 
